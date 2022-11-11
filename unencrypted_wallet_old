@@ -1,0 +1,151 @@
+{
+    "addr_history": {
+        "tb1q0h34n6hlfhwv2w9378krnkalqtq59qvuccdedt": [],
+        "tb1q2uaun7rypcennwkkmqm3k40djht3t8j96uddpe": [],
+        "tb1q4vuja0vur4wpl54tx2n7zytrg50pttsgwhus4n": [],
+        "tb1q75ww2s39v9jadyexaquz55n0r0q99unu3kem60": [],
+        "tb1q7dveck25y3k232xz347fax6ek0kdsqjvdrg0ez": [],
+        "tb1q7wfqyj57lnlktqzf443kv9q8nd34u8rjyxms65": [],
+        "tb1q7zk976xxzm82dyuu6389u4gxkca5tmf6dtu4k6": [],
+        "tb1q8llx2ywlwy6usytempu30qnjf62et0hatfq8rx": [],
+        "tb1q9v630m5chwuafj945ma8xdz5tx495ty34j6dhk": [],
+        "tb1qalngpf4qre7v7pn8gaa8mkprf9av64kvpxg43w": [],
+        "tb1qcuff86suskcljwxlhx5prk848qu83x5h6fx63y": [],
+        "tb1qdhcvcr8n58ufktn89la29z2vc7q022lh4qp27w": [],
+        "tb1qelf67w2hyyhuj6gcl38c9pqxny0ug2ffenapn4": [],
+        "tb1qfnlclqj6hehkpmu6n30ejz69vu76x79muzqkjd": [],
+        "tb1qhpmwak9ksev5qw85hskk2chpslzhz322zh9zk0": [],
+        "tb1qjmdpseqnvnxv6amsg84py5emg7kyc4xap9k89d": [],
+        "tb1qkhjly0f26wq0ulcquauytn320x7rw0cq4q87xa": [],
+        "tb1qm92a3m0dtesnsyelpgfa925afc0vsteq2ca8qq": [],
+        "tb1qntwea5j38lr2vzahvly09aswaqpjkk9meljquu": [],
+        "tb1qpcua3pmp843vc0zpf32gcc0aah8d87kamsfmk7": [],
+        "tb1qr2khatswdkvhn6l0yxara74xpy6whyg58ylfa4": [],
+        "tb1qrkj9lm08xv7warnpy2jjenshn2qnng5kljrtxk": [],
+        "tb1qsjfgg7v4wncd0gcdz82h9wcl79ed5yz95ydquz": [
+            [
+                "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db",
+                2370532
+            ]
+        ],
+        "tb1qunuductg6lfpl6yxs84psx528r0rgm73zluq9r": [],
+        "tb1quv0s50km95e6p254xzd6d9pksef8vr39y2etdj": [],
+        "tb1qvkm0c5ejcrjx6uz4uxsp4rme6ec0mfhxta9e0g": [],
+        "tb1qw23cwsawnvgkggksch8u4tda67t6nr0g438203": [],
+        "tb1qwfqq2tu7dnt7wj9g5knq4a5pqg8spkq0tv48aa": [],
+        "tb1qyvpal5qhqeka0zzwea3eepsf4hnpy3e08v7x64": [],
+        "tb1qzgpyvn3amqsvakrru00mry4m40k349rackzz0z": [],
+        "tb1qzwmackdyuty8v34djsw4fwaqxj6nwdguqh05ex": []
+    },
+    "addresses": {
+        "change": [
+            "tb1q4vuja0vur4wpl54tx2n7zytrg50pttsgwhus4n",
+            "tb1qzwmackdyuty8v34djsw4fwaqxj6nwdguqh05ex",
+            "tb1qdhcvcr8n58ufktn89la29z2vc7q022lh4qp27w",
+            "tb1qjmdpseqnvnxv6amsg84py5emg7kyc4xap9k89d",
+            "tb1qalngpf4qre7v7pn8gaa8mkprf9av64kvpxg43w",
+            "tb1qunuductg6lfpl6yxs84psx528r0rgm73zluq9r",
+            "tb1quv0s50km95e6p254xzd6d9pksef8vr39y2etdj",
+            "tb1qelf67w2hyyhuj6gcl38c9pqxny0ug2ffenapn4",
+            "tb1qwfqq2tu7dnt7wj9g5knq4a5pqg8spkq0tv48aa",
+            "tb1qzgpyvn3amqsvakrru00mry4m40k349rackzz0z"
+        ],
+        "receiving": [
+            "tb1qsjfgg7v4wncd0gcdz82h9wcl79ed5yz95ydquz",
+            "tb1qfnlclqj6hehkpmu6n30ejz69vu76x79muzqkjd",
+            "tb1qrkj9lm08xv7warnpy2jjenshn2qnng5kljrtxk",
+            "tb1qm92a3m0dtesnsyelpgfa925afc0vsteq2ca8qq",
+            "tb1qntwea5j38lr2vzahvly09aswaqpjkk9meljquu",
+            "tb1q2uaun7rypcennwkkmqm3k40djht3t8j96uddpe",
+            "tb1qkhjly0f26wq0ulcquauytn320x7rw0cq4q87xa",
+            "tb1qw23cwsawnvgkggksch8u4tda67t6nr0g438203",
+            "tb1q75ww2s39v9jadyexaquz55n0r0q99unu3kem60",
+            "tb1q8llx2ywlwy6usytempu30qnjf62et0hatfq8rx",
+            "tb1qpcua3pmp843vc0zpf32gcc0aah8d87kamsfmk7",
+            "tb1qyvpal5qhqeka0zzwea3eepsf4hnpy3e08v7x64",
+            "tb1qcuff86suskcljwxlhx5prk848qu83x5h6fx63y",
+            "tb1q0h34n6hlfhwv2w9378krnkalqtq59qvuccdedt",
+            "tb1qr2khatswdkvhn6l0yxara74xpy6whyg58ylfa4",
+            "tb1q7zk976xxzm82dyuu6389u4gxkca5tmf6dtu4k6",
+            "tb1q7wfqyj57lnlktqzf443kv9q8nd34u8rjyxms65",
+            "tb1qvkm0c5ejcrjx6uz4uxsp4rme6ec0mfhxta9e0g",
+            "tb1q7dveck25y3k232xz347fax6ek0kdsqjvdrg0ez",
+            "tb1q9v630m5chwuafj945ma8xdz5tx495ty34j6dhk",
+            "tb1qhpmwak9ksev5qw85hskk2chpslzhz322zh9zk0"
+        ]
+    },
+    "channels": {},
+    "fiat_value": {},
+    "frozen_coins": {},
+    "imported_channel_backups": {},
+    "invoices": {},
+    "keystore": {
+        "derivation": "m/0'",
+        "pw_hash_version": 1,
+        "root_fingerprint": "2fe76586",
+        "seed": "mvGeMCr3PU+xJRT9NMDRaK6nbfK/gPHwmRr7e9DKbhcAgiuTX2RbgK7o4Qr7RYnx1dfDWwQopK+tyPDpJjxB/MavpzE3i92M578GpW+Uhe4XPMu73JYo2CoZHU4XSFMQ",
+        "seed_type": "segwit",
+        "type": "bip32",
+        "xprv": "FmqxoKWkZCcXGCr7gh66p495c5rz0darIJYsXaY/7DeAYqXtjKrZrlb2eJD2rR3T6J6T00bMIE4kyov8GuMuGLnSyUAKLFm6ySyOOj2yLD2imwl8CeyF41cPs0tgSSdywu9J8UMrADOhFKFmEDkXHojLAq0EmDfdjMwuVF+N7fk=",
+        "xpub": "vpub5UaPhCFCbovVjFCc5SvnzLqTXBZ4Lxg9VKMVFvMzdibEvLhiuE2uV4d3cBGtpnJDcAVCDcdm8AoZCTqEDiP5rpN6FjckfmjqTbh1Jcofa9v"
+    },
+    "labels": {},
+    "lightning_payments": {},
+    "lightning_preimages": {},
+    "lightning_xprv": "vprv9J4YcTcZQ7aWUQPDUsMK6pRuDQ1JQYd1Fd5zpHF74NiufoyCyF7eQJzc2pVdyDhyFepXoH6sjzXdPPBq47a6wgsyafwn8pdCFjiVjFL1r1X",
+    "onchain_channel_backups": {},
+    "payment_requests": {},
+    "prevouts_by_scripthash": {
+        "9169a80e1c7305270f63235219150974b133912223a174f33cb1478bb027836f": [
+            [
+                "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db:1",
+                982030
+            ]
+        ],
+        "b4de4463531602f7e2eda3b5c4854fe29fc1ed479b1af027d9171d29a77bbdc4": [
+            [
+                "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db:0",
+                11000
+            ]
+        ]
+    },
+    "seed_type": "segwit",
+    "seed_version": 50,
+    "spent_outpoints": {
+        "335537b468a84328243fd0938475ca0cc3d7b0bc66a25f778930ffee715073ff": {
+            "0": "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db"
+        }
+    },
+    "submarine_swaps": {},
+    "transactions": {
+        "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db": "02000000000101ff735071eeff3089775fa266bcb0d7c30cca758493d03f242843a868b43755330000000000feffffff02f82a000000000000160014849284799574f0d7a30d11d572bb1ff172da10450efc0e0000000000160014aecbe7d5eabcd3f84da7f7087e4a8da025fdddd402473044022002551b6dbf3bf56ee34e0dbfe71c6802541beebea17d466db7611f267a9db2a302205753415483029a770d160efa80279a867a41cd30396e46d6827e8ef6db62ecc30121025ee1b102cb7b1044eb9479473bdf0e11fa3ed9af3b2e31f27bf56c92ef65ca6bde2b2400"
+    },
+    "tx_fees": {
+        "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db": [
+            7067,
+            false,
+            1
+        ]
+    },
+    "txi": {},
+    "txo": {
+        "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db": {
+            "tb1qsjfgg7v4wncd0gcdz82h9wcl79ed5yz95ydquz": {
+                "0": [
+                    11000,
+                    false
+                ]
+            }
+        }
+    },
+    "use_encryption": true,
+    "verified_tx3": {
+        "a3a4599c1545f9bee6bd881065bb9e04be930a5e18fe3c7f75465c6fa222d0db": [
+            2370532,
+            1665678117,
+            1,
+            "000000000000196f9a35e69cca6122082e8c14472d6056bca5cc086781ec688c"
+        ]
+    },
+    "wallet_type": "standard"
+}
